@@ -6,7 +6,7 @@
 </br>
 
 ---- 
-Hi, I'm [Najih Mld](https://github.com/najihmld), but you can call me **Najih**. 
+Hi, I'm **Najih Mld**, you can call me **Najih**. 
 
 I'm a Mobile Developer from Pemalang, Central Java, Indonesia :heart:
 
