@@ -1,16 +1,3 @@
-### Welcome to my profile :earth_asia:
-
-<a target="_blank" href="https://www.linkedin.com/in/najihmld/">
-  <img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
-</a>
-</br>
-
----- 
-Hi, I'm **Najih Mld**, you can call me **Najih**. 
-
-I'm a Mobile Developer from Pemalang, Central Java, Indonesia :heart:
-
-
 ----
 **Languages and Tools:**  
 
