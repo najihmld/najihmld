@@ -6,5 +6,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najihmld&layout=compact" />
 </div>
 
-----
-[![trophy](https://github-profile-trophy.vercel.app/?username=najihmld)](https://github.com/ryo-ma/github-profile-trophy)
